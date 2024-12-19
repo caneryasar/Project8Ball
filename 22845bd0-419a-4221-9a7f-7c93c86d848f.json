@@ -392,7 +392,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.6455105703311742,
+        "zoomFactor": 1.528913289223387,
         "windowMask": false
       },
       "objectsGroups": [
@@ -562,114 +562,6 @@
           "width": 1701,
           "x": 110,
           "y": 109,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 49,
-          "keepRatio": true,
-          "layer": "",
-          "locked": true,
-          "name": "Pocket",
-          "persistentUuid": "3cc66f85-c9de-430a-9c3a-d2fb6c53bf8b",
-          "width": 47,
-          "x": 244,
-          "y": 215,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 49,
-          "keepRatio": true,
-          "layer": "",
-          "locked": true,
-          "name": "Pocket",
-          "persistentUuid": "398f47a5-8e03-49d3-a300-79d9ab72a07e",
-          "width": 47,
-          "x": 937,
-          "y": 215,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 49,
-          "keepRatio": true,
-          "layer": "",
-          "locked": true,
-          "name": "Pocket",
-          "persistentUuid": "39696ea5-f3df-4d82-959a-31ca0f9020cc",
-          "width": 47,
-          "x": 1630,
-          "y": 215,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 49,
-          "keepRatio": true,
-          "layer": "",
-          "locked": true,
-          "name": "Pocket",
-          "persistentUuid": "74e21dc1-47f3-4469-b558-77a92fcb182d",
-          "width": 47,
-          "x": 1630,
-          "y": 849,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 49,
-          "keepRatio": true,
-          "layer": "",
-          "locked": true,
-          "name": "Pocket",
-          "persistentUuid": "57061292-2863-4ff2-800d-784c6511f174",
-          "width": 47,
-          "x": 937,
-          "y": 849,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 49,
-          "keepRatio": true,
-          "layer": "",
-          "locked": true,
-          "name": "Pocket",
-          "persistentUuid": "205d2db3-70b8-4f9d-9216-c4f3e202a2a4",
-          "width": 47,
-          "x": 243,
-          "y": 848,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -1123,6 +1015,108 @@
           "x": 207,
           "y": 278,
           "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Pocket",
+          "persistentUuid": "9d8bda93-63f5-479c-bffe-bf13752fdd93",
+          "width": 23,
+          "x": 243,
+          "y": 217,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 6,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Pocket",
+          "persistentUuid": "fc3d09b9-b0d1-4378-bb41-e3abd7e99fb3",
+          "width": 69,
+          "x": 926,
+          "y": 876,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 6,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Pocket",
+          "persistentUuid": "84eaa774-628d-4aff-a72f-e2a46a613285",
+          "width": 69,
+          "x": 926,
+          "y": 230,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 14,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Pocket",
+          "persistentUuid": "f86e1dd2-7ed7-4728-b360-df5f028b4512",
+          "width": 20,
+          "x": 1657,
+          "y": 216,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 14,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Pocket",
+          "persistentUuid": "4a0710fa-5786-439d-b099-8d18a678d56a",
+          "width": 26,
+          "x": 1655,
+          "y": 880,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 14,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Pocket",
+          "persistentUuid": "4c779870-6c76-4133-8a71-c263b1292227",
+          "width": 26,
+          "x": 238,
+          "y": 878,
+          "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3745,6 +3739,7 @@
           ]
         },
         {
+          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -3874,6 +3869,7 @@
           ]
         },
         {
+          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -3970,32 +3966,95 @@
           ]
         },
         {
-          "type": "BuiltinCommonInstructions::JsCode",
-          "inlineCode": [
-            "const SpriteObjects = runtimeScene.getObjects(\"Bounds\");",
-            "",
-            "SpriteObjects.forEach(SpriteObject => {",
-            "    const PhysicsObject = SpriteObject.getBehavior('Physics2');",
-            "    const Vertices = PhysicsObject.polygon.vertices;",
-            "",
-            "    const AdjustedVertices = [];",
-            "    for (var c of Vertices) {",
-            "        // Relate position to object scale",
-            "        const scaledCoordinates = [",
-            "            c[0] * SpriteObject._scaleX,",
-            "            c[1] * SpriteObject._scaleY",
-            "        ];",
-            "        AdjustedVertices.push(scaledCoordinates);",
-            "    }",
-            "",
-            "    PhysicsObject.polygonOrigin = \"Origin\";",
-            "    PhysicsObject.polygon.vertices = AdjustedVertices;",
-            "    PhysicsObject.recreateShape();",
-            "});"
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Ball Logic",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Physics2::Collision"
+                  },
+                  "parameters": [
+                    "Ball_White",
+                    "Physics2",
+                    "Pocket",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "p1Playing",
+                    "Toggle",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "p2Playing",
+                    "Toggle",
+                    ""
+                  ]
+                }
+              ]
+            }
           ],
-          "parameterObjects": "Table",
-          "useStrict": true,
-          "eventsSheetExpanded": false
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "JavaScript",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const SpriteObjects = runtimeScene.getObjects(\"Bounds\");",
+                "",
+                "SpriteObjects.forEach(SpriteObject => {",
+                "    const PhysicsObject = SpriteObject.getBehavior('Physics2');",
+                "    const Vertices = PhysicsObject.polygon.vertices;",
+                "",
+                "    const AdjustedVertices = [];",
+                "    for (var c of Vertices) {",
+                "        // Relate position to object scale",
+                "        const scaledCoordinates = [",
+                "            c[0] * SpriteObject._scaleX,",
+                "            c[1] * SpriteObject._scaleY",
+                "        ];",
+                "        AdjustedVertices.push(scaledCoordinates);",
+                "    }",
+                "",
+                "    PhysicsObject.polygonOrigin = \"Origin\";",
+                "    PhysicsObject.polygon.vertices = AdjustedVertices;",
+                "    PhysicsObject.recreateShape();",
+                "});"
+              ],
+              "parameterObjects": "Table",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "parameters": []
         }
       ],
       "layers": [
