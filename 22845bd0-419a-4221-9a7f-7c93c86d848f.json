@@ -23,13 +23,41 @@
     "name": "Project8Ball",
     "description": "",
     "author": "",
-    "windowWidth": 1280,
-    "windowHeight": 720,
+    "windowWidth": 1920,
+    "windowHeight": 1080,
     "latestCompilationDirectory": "",
     "maxFPS": 60,
     "minFPS": 20,
     "verticalSync": false,
-    "platformSpecificAssets": {},
+    "platformSpecificAssets": {
+      "android-icon-144": "",
+      "android-icon-192": "",
+      "android-icon-36": "",
+      "android-icon-48": "",
+      "android-icon-72": "",
+      "android-icon-96": "",
+      "android-windowSplashScreenAnimatedIcon": "",
+      "desktop-icon-512": "",
+      "ios-icon-100": "",
+      "ios-icon-1024": "",
+      "ios-icon-114": "",
+      "ios-icon-120": "",
+      "ios-icon-144": "",
+      "ios-icon-152": "",
+      "ios-icon-167": "",
+      "ios-icon-180": "",
+      "ios-icon-20": "",
+      "ios-icon-29": "",
+      "ios-icon-40": "",
+      "ios-icon-50": "",
+      "ios-icon-57": "",
+      "ios-icon-58": "",
+      "ios-icon-60": "",
+      "ios-icon-72": "",
+      "ios-icon-76": "",
+      "ios-icon-80": "",
+      "ios-icon-87": ""
+    },
     "loadingScreen": {
       "backgroundColor": 0,
       "backgroundFadeInDuration": 0.2,
@@ -80,7 +108,7 @@
         "file": "assets/vecteezy_pool-table-top-view-billiard-game-background_24592776.jpg",
         "kind": "image",
         "metadata": "",
-        "name": "vecteezy_pool-table-top-view-billiard-game-background_24592776.jpg",
+        "name": "poolTable",
         "smoothed": true,
         "userAdded": false,
         "origin": {
@@ -89,162 +117,10 @@
         }
       },
       {
-        "file": "assets/TopLeft.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\TopLeft.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/TopRight.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\TopRight.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Left.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\Left.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/BottomLeft.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\BottomLeft.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/BottomRight.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\BottomRight.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Right.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\Right.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "TopLeftBound.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "TopLeftBound.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "TopLeftBound2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "TopLeftBound2.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "TopRightBound.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "TopRightBound.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "RightBound.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "RightBound.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "BottomRightBound.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "BottomRightBound.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "BottomLeftBound.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "BottomLeftBound.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "LeftBound.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "LeftBound.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "TopLeftHole.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "TopLeftHole.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "TopMiddleHole.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "TopMiddleHole.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "TopRightHole.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "TopRightHole.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "BottomRightHole.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "BottomRightHole.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "BottomMiddleHole.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "BottomMiddleHole.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "BottomLeftHole.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "BottomLeftHole.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "assets/NewSprite.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite",
+        "name": "Hole",
         "smoothed": true,
         "userAdded": false
       },
@@ -377,14 +253,6 @@
         "userAdded": false
       },
       {
-        "file": "p1cue.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "p1cue.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "p2cue.png",
         "kind": "image",
         "metadata": "",
@@ -393,18 +261,58 @@
         "userAdded": false
       },
       {
-        "file": "assets/p1cue.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "p1cue",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
         "file": "assets/p1cue2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "p1cue2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/TopLeftBound.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\TopLeftBound.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/TopRightBound.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\TopRightBound.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/RightBound.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\RightBound.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/BottomRightBound.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\BottomRightBound.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/BottomLeftBound.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\BottomLeftBound.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/LeftBound.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\LeftBound.png",
         "smoothed": true,
         "userAdded": false
       }
@@ -431,6 +339,36 @@
       "name": "isShooting",
       "type": "boolean",
       "value": false
+    },
+    {
+      "name": "p1X",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "name": "p1Y",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "name": "p1R",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "name": "p2X",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "name": "p2Y",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "name": "p2R",
+      "type": "number",
+      "value": 0
     }
   ],
   "layouts": [
@@ -454,7 +392,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.9610368693715006,
+        "zoomFactor": 0.6455105703311742,
         "windowMask": false
       },
       "objectsGroups": [
@@ -483,26 +421,7 @@
         },
         {
           "name": "Pockets",
-          "objects": [
-            {
-              "name": "Pocket_TopLeft"
-            },
-            {
-              "name": "Pocket_TopMiddle"
-            },
-            {
-              "name": "Pokcet_TopRight"
-            },
-            {
-              "name": "Pocket_BottomRight"
-            },
-            {
-              "name": "Pocket_BottomMiddle"
-            },
-            {
-              "name": "Pocket_BottomLeft"
-            }
-          ]
+          "objects": []
         },
         {
           "name": "Balls",
@@ -616,13 +535,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 768,
+          "height": 1130,
           "keepRatio": true,
           "layer": "",
           "locked": true,
           "name": "TiledBg",
           "persistentUuid": "61ad82ce-bb9b-4f62-a13a-654f233ced25",
-          "width": 1344,
+          "width": 1985,
           "x": -32,
           "y": -32,
           "zOrder": 1,
@@ -634,15 +553,15 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 608,
+          "height": 895,
           "keepRatio": true,
           "layer": "",
           "locked": true,
           "name": "Table",
           "persistentUuid": "ec16c561-4fab-42fb-9ed0-c35ff08fe628",
-          "width": 1152,
-          "x": 64,
-          "y": 64,
+          "width": 1701,
+          "x": 110,
+          "y": 109,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -652,15 +571,121 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 54,
+          "height": 49,
           "keepRatio": true,
-          "layer": "GameplayElements_Layer",
+          "layer": "",
           "locked": true,
-          "name": "Bound_TopLeft",
-          "persistentUuid": "8aa098f6-ce79-4e8a-9625-4026e5d66e67",
-          "width": 412,
-          "x": 199,
-          "y": 115,
+          "name": "Pocket",
+          "persistentUuid": "3cc66f85-c9de-430a-9c3a-d2fb6c53bf8b",
+          "width": 47,
+          "x": 244,
+          "y": 215,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 49,
+          "keepRatio": true,
+          "layer": "",
+          "locked": true,
+          "name": "Pocket",
+          "persistentUuid": "398f47a5-8e03-49d3-a300-79d9ab72a07e",
+          "width": 47,
+          "x": 937,
+          "y": 215,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 49,
+          "keepRatio": true,
+          "layer": "",
+          "locked": true,
+          "name": "Pocket",
+          "persistentUuid": "39696ea5-f3df-4d82-959a-31ca0f9020cc",
+          "width": 47,
+          "x": 1630,
+          "y": 215,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 49,
+          "keepRatio": true,
+          "layer": "",
+          "locked": true,
+          "name": "Pocket",
+          "persistentUuid": "74e21dc1-47f3-4469-b558-77a92fcb182d",
+          "width": 47,
+          "x": 1630,
+          "y": 849,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 49,
+          "keepRatio": true,
+          "layer": "",
+          "locked": true,
+          "name": "Pocket",
+          "persistentUuid": "57061292-2863-4ff2-800d-784c6511f174",
+          "width": 47,
+          "x": 937,
+          "y": 849,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 49,
+          "keepRatio": true,
+          "layer": "",
+          "locked": true,
+          "name": "Pocket",
+          "persistentUuid": "205d2db3-70b8-4f9d-9216-c4f3e202a2a4",
+          "width": 47,
+          "x": 243,
+          "y": 848,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 30,
+          "layer": "GameplayElements_Layer",
+          "name": "Ball_White",
+          "persistentUuid": "ccd1a23e-6b56-48bc-8b4b-c833513ff49f",
+          "width": 30,
+          "x": 628,
+          "y": 530,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -670,15 +695,263 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 54,
+          "height": 30,
+          "layer": "GameplayElements_Layer",
+          "name": "Ball_1",
+          "persistentUuid": "872028d8-48d1-4922-973e-4dd89c6a32f4",
+          "width": 30,
+          "x": 1154,
+          "y": 529,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0.8108108108108109,
+          "height": 30,
           "keepRatio": true,
           "layer": "GameplayElements_Layer",
-          "locked": true,
-          "name": "Bound_TopRight",
-          "persistentUuid": "47de1424-b0a8-4d1b-bb5f-1ca0fd92dcfa",
-          "width": 412,
-          "x": 668,
-          "y": 115,
+          "name": "Ball_11",
+          "persistentUuid": "57b6e5a5-860f-4040-8450-fb8f91483982",
+          "width": 30,
+          "x": 1181,
+          "y": 544,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 30,
+          "layer": "GameplayElements_Layer",
+          "name": "Ball_5",
+          "persistentUuid": "a876c3d1-3e53-4762-961c-6d3bd059b887",
+          "width": 30,
+          "x": 1181,
+          "y": 513,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0.8108108108108109,
+          "height": 30,
+          "keepRatio": true,
+          "layer": "GameplayElements_Layer",
+          "name": "Ball_8",
+          "persistentUuid": "c2b3db93-c5ff-4304-be34-60ce8b59f418",
+          "width": 30,
+          "x": 1208,
+          "y": 529,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0.8108108108108109,
+          "height": 30,
+          "keepRatio": true,
+          "layer": "GameplayElements_Layer",
+          "name": "Ball_10",
+          "persistentUuid": "96a66b4f-a2dc-439c-9c6f-214eb058417b",
+          "width": 30,
+          "x": 1208,
+          "y": 498,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 30,
+          "layer": "GameplayElements_Layer",
+          "name": "Ball_2",
+          "persistentUuid": "44279bb6-d14f-434e-a40d-d57c4e66f678",
+          "width": 30,
+          "x": 1208,
+          "y": 560,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0.8108108108108109,
+          "height": 30,
+          "keepRatio": true,
+          "layer": "GameplayElements_Layer",
+          "name": "Ball_14",
+          "persistentUuid": "5eb36ed0-a5f8-4c38-8535-c23877abadbe",
+          "width": 30,
+          "x": 1235,
+          "y": 513,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 30,
+          "layer": "GameplayElements_Layer",
+          "name": "Ball_7",
+          "persistentUuid": "e3931fb7-4b32-4576-802a-240dd54d3be5",
+          "width": 30,
+          "x": 1235,
+          "y": 544,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0.8108108108108109,
+          "height": 30,
+          "keepRatio": true,
+          "layer": "GameplayElements_Layer",
+          "name": "Ball_9",
+          "persistentUuid": "3c401873-53ea-496e-a6e9-0263373f61e8",
+          "width": 30,
+          "x": 1235,
+          "y": 575,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0.8108108108108109,
+          "height": 30,
+          "keepRatio": true,
+          "layer": "GameplayElements_Layer",
+          "name": "Ball_4",
+          "persistentUuid": "f8dae808-db6b-4bfa-afca-75188c5d182b",
+          "width": 30,
+          "x": 1235,
+          "y": 482,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0.8108108108108109,
+          "height": 30,
+          "keepRatio": true,
+          "layer": "GameplayElements_Layer",
+          "name": "Ball_15",
+          "persistentUuid": "975d8ae6-f357-4c87-925c-85e3045398c0",
+          "width": 30,
+          "x": 1262,
+          "y": 559,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0.8108108108108109,
+          "height": 30,
+          "keepRatio": true,
+          "layer": "GameplayElements_Layer",
+          "name": "Ball_13",
+          "persistentUuid": "ae6bbb87-16cd-4704-a4be-502c0c1d3730",
+          "width": 30,
+          "x": 1262,
+          "y": 528,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0.8108108108108109,
+          "height": 30,
+          "keepRatio": true,
+          "layer": "GameplayElements_Layer",
+          "name": "Ball_3",
+          "persistentUuid": "c7a72280-e8f6-4121-8c5c-bbde0fa9f7da",
+          "width": 30,
+          "x": 1262,
+          "y": 497,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 30,
+          "layer": "GameplayElements_Layer",
+          "name": "Ball_12",
+          "persistentUuid": "96160c88-f76a-464c-b158-7903170da165",
+          "width": 30,
+          "x": 1262,
+          "y": 466,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 30,
+          "layer": "GameplayElements_Layer",
+          "name": "Ball_6",
+          "persistentUuid": "97fccb7d-6b6c-4110-9799-e22ead327480",
+          "width": 30,
+          "x": 1262,
+          "y": 590,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 24,
+          "keepRatio": true,
+          "layer": "GameplayElements_Layer",
+          "name": "Cue_P1",
+          "persistentUuid": "1e893369-77f5-4e77-99fd-9f74dd2a3464",
+          "width": 892,
+          "x": 534,
+          "y": 1008,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -688,476 +961,66 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 378,
-          "keepRatio": true,
-          "layer": "GameplayElements_Layer",
-          "locked": true,
-          "name": "Bound_Right",
-          "persistentUuid": "a3a10b9f-8ea9-4267-83f0-0fee3c56f5c1",
-          "width": 58,
-          "x": 1092,
-          "y": 179,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 54,
-          "keepRatio": true,
-          "layer": "GameplayElements_Layer",
-          "locked": true,
-          "name": "Bound_BottomRight",
-          "persistentUuid": "31c69223-7669-4a39-92d9-3c95566783ab",
-          "width": 411,
-          "x": 669,
-          "y": 567,
-          "zOrder": 6,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 55,
-          "keepRatio": true,
-          "layer": "GameplayElements_Layer",
-          "locked": true,
-          "name": "Bound_BottomLeft",
-          "persistentUuid": "7352c363-682a-4dca-9a06-cd16f8b85292",
-          "width": 411,
-          "x": 200,
-          "y": 566,
-          "zOrder": 7,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 378,
-          "keepRatio": true,
-          "layer": "GameplayElements_Layer",
-          "locked": true,
-          "name": "Bound_Left",
-          "persistentUuid": "a953b717-4294-4d98-84c7-5df5ed4375a8",
-          "width": 58,
-          "x": 130,
-          "y": 179,
-          "zOrder": 8,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 33,
-          "keepRatio": true,
-          "layer": "GameplayElements_Layer",
-          "locked": true,
-          "name": "Pocket",
-          "persistentUuid": "3cc66f85-c9de-430a-9c3a-d2fb6c53bf8b",
-          "width": 32,
-          "x": 155,
-          "y": 136,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 33,
-          "keepRatio": true,
-          "layer": "GameplayElements_Layer",
-          "locked": true,
-          "name": "Pocket",
-          "persistentUuid": "398f47a5-8e03-49d3-a300-79d9ab72a07e",
-          "width": 32,
-          "x": 624,
-          "y": 136,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 33,
-          "keepRatio": true,
-          "layer": "GameplayElements_Layer",
-          "locked": true,
-          "name": "Pocket",
-          "persistentUuid": "39696ea5-f3df-4d82-959a-31ca0f9020cc",
-          "width": 32,
-          "x": 1093,
-          "y": 136,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 33,
-          "keepRatio": true,
-          "layer": "GameplayElements_Layer",
-          "locked": true,
-          "name": "Pocket",
-          "persistentUuid": "74e21dc1-47f3-4469-b558-77a92fcb182d",
-          "width": 32,
-          "x": 1093,
-          "y": 567,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 33,
-          "keepRatio": true,
-          "layer": "GameplayElements_Layer",
-          "locked": true,
-          "name": "Pocket",
-          "persistentUuid": "57061292-2863-4ff2-800d-784c6511f174",
-          "width": 32,
-          "x": 624,
-          "y": 567,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 33,
-          "keepRatio": true,
-          "layer": "GameplayElements_Layer",
-          "name": "Pocket",
-          "persistentUuid": "205d2db3-70b8-4f9d-9216-c4f3e202a2a4",
-          "width": 32,
-          "x": 154,
-          "y": 566,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1.0204081632653061,
           "height": 25,
-          "layer": "GameplayElements_Layer",
-          "name": "Ball_White",
-          "persistentUuid": "ccd1a23e-6b56-48bc-8b4b-c833513ff49f",
-          "width": 25,
-          "x": 415,
-          "y": 350,
-          "zOrder": 12,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 25,
-          "layer": "GameplayElements_Layer",
-          "name": "Ball_1",
-          "persistentUuid": "872028d8-48d1-4922-973e-4dd89c6a32f4",
-          "width": 25,
-          "x": 767,
-          "y": 349,
-          "zOrder": 12,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 25,
-          "keepRatio": true,
-          "layer": "GameplayElements_Layer",
-          "name": "Ball_11",
-          "persistentUuid": "57b6e5a5-860f-4040-8450-fb8f91483982",
-          "width": 25,
-          "x": 789,
-          "y": 362,
-          "zOrder": 12,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 25,
-          "layer": "GameplayElements_Layer",
-          "name": "Ball_5",
-          "persistentUuid": "a876c3d1-3e53-4762-961c-6d3bd059b887",
-          "width": 25,
-          "x": 789,
-          "y": 336,
-          "zOrder": 12,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 25,
-          "keepRatio": true,
-          "layer": "GameplayElements_Layer",
-          "name": "Ball_8",
-          "persistentUuid": "c2b3db93-c5ff-4304-be34-60ce8b59f418",
-          "width": 25,
-          "x": 811,
-          "y": 349,
-          "zOrder": 12,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 25,
-          "keepRatio": true,
-          "layer": "GameplayElements_Layer",
-          "name": "Ball_10",
-          "persistentUuid": "96a66b4f-a2dc-439c-9c6f-214eb058417b",
-          "width": 25,
-          "x": 811,
-          "y": 323,
-          "zOrder": 12,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 25,
-          "layer": "GameplayElements_Layer",
-          "name": "Ball_2",
-          "persistentUuid": "44279bb6-d14f-434e-a40d-d57c4e66f678",
-          "width": 25,
-          "x": 811,
-          "y": 375,
-          "zOrder": 12,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 25,
-          "keepRatio": true,
-          "layer": "GameplayElements_Layer",
-          "name": "Ball_14",
-          "persistentUuid": "5eb36ed0-a5f8-4c38-8535-c23877abadbe",
-          "width": 25,
-          "x": 833,
-          "y": 336,
-          "zOrder": 12,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 25,
-          "layer": "GameplayElements_Layer",
-          "name": "Ball_7",
-          "persistentUuid": "e3931fb7-4b32-4576-802a-240dd54d3be5",
-          "width": 25,
-          "x": 833,
-          "y": 362,
-          "zOrder": 12,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 25,
-          "keepRatio": true,
-          "layer": "GameplayElements_Layer",
-          "name": "Ball_9",
-          "persistentUuid": "3c401873-53ea-496e-a6e9-0263373f61e8",
-          "width": 25,
-          "x": 833,
-          "y": 388,
-          "zOrder": 12,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 25,
-          "keepRatio": true,
-          "layer": "GameplayElements_Layer",
-          "name": "Ball_4",
-          "persistentUuid": "f8dae808-db6b-4bfa-afca-75188c5d182b",
-          "width": 25,
-          "x": 833,
-          "y": 310,
-          "zOrder": 12,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 25,
-          "keepRatio": true,
-          "layer": "GameplayElements_Layer",
-          "name": "Ball_15",
-          "persistentUuid": "975d8ae6-f357-4c87-925c-85e3045398c0",
-          "width": 25,
-          "x": 855,
-          "y": 375,
-          "zOrder": 12,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 25,
-          "keepRatio": true,
-          "layer": "GameplayElements_Layer",
-          "name": "Ball_13",
-          "persistentUuid": "ae6bbb87-16cd-4704-a4be-502c0c1d3730",
-          "width": 25,
-          "x": 855,
-          "y": 349,
-          "zOrder": 12,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 25,
-          "keepRatio": true,
-          "layer": "GameplayElements_Layer",
-          "name": "Ball_3",
-          "persistentUuid": "c7a72280-e8f6-4121-8c5c-bbde0fa9f7da",
-          "width": 25,
-          "x": 855,
-          "y": 323,
-          "zOrder": 12,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 25,
-          "layer": "GameplayElements_Layer",
-          "name": "Ball_12",
-          "persistentUuid": "96160c88-f76a-464c-b158-7903170da165",
-          "width": 25,
-          "x": 855,
-          "y": 297,
-          "zOrder": 12,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 25,
-          "layer": "GameplayElements_Layer",
-          "name": "Ball_6",
-          "persistentUuid": "97fccb7d-6b6c-4110-9799-e22ead327480",
-          "width": 25,
-          "x": 855,
-          "y": 401,
-          "zOrder": 12,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0.4946764946764946,
-          "height": 16.324324324324326,
-          "keepRatio": true,
-          "layer": "GameplayElements_Layer",
-          "name": "Cue_P1",
-          "persistentUuid": "1e893369-77f5-4e77-99fd-9f74dd2a3464",
-          "width": 604,
-          "x": 351,
-          "y": 675,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 16.80523731587562,
           "keepRatio": true,
           "layer": "GameplayElements_Layer",
           "name": "Cue_P2",
           "persistentUuid": "d653c83b-d6a0-4f98-90eb-70ac8e446370",
-          "width": 604,
-          "x": 351,
-          "y": 699,
-          "zOrder": 13,
+          "width": 892,
+          "x": 534,
+          "y": 1044,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 34,
+          "keepRatio": true,
+          "layer": "",
+          "name": "DebugText",
+          "persistentUuid": "edf9c31e-df96-4f54-92e0-8b1e2ddfcfd6",
+          "width": 340,
+          "x": 63,
+          "y": 30,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 34,
+          "keepRatio": true,
+          "layer": "",
+          "name": "DebugText2",
+          "persistentUuid": "c0a550f4-e085-4901-84fb-04ceafe297ed",
+          "width": 340,
+          "x": 63,
+          "y": 71,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 34,
+          "keepRatio": true,
+          "layer": "",
+          "name": "DebugText3",
+          "persistentUuid": "6942608f-43e8-4c0b-9510-666bd022fd65",
+          "width": 340,
+          "x": 77,
+          "y": 1027,
+          "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1167,13 +1030,99 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "",
-          "name": "DebugText",
-          "persistentUuid": "edf9c31e-df96-4f54-92e0-8b1e2ddfcfd6",
+          "layer": "GameplayElements_Layer",
+          "locked": true,
+          "name": "Bound_TopLeft",
+          "persistentUuid": "868921d6-a5b1-467c-a871-f2930b6ae57c",
           "width": 0,
-          "x": 33,
-          "y": 14,
-          "zOrder": 14,
+          "x": 309,
+          "y": 184,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "GameplayElements_Layer",
+          "locked": true,
+          "name": "Bound_TopRight",
+          "persistentUuid": "4706bcef-4f66-419a-86cb-5ba552349dc2",
+          "width": 0,
+          "x": 1002,
+          "y": 184,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "GameplayElements_Layer",
+          "locked": true,
+          "name": "Bound_Right",
+          "persistentUuid": "3eaf1b91-5492-45dc-a39c-d10a8e760ca3",
+          "width": 0,
+          "x": 1628,
+          "y": 278,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "GameplayElements_Layer",
+          "locked": true,
+          "name": "Bound_BottomRight",
+          "persistentUuid": "239bf7c2-72aa-4f9c-a6ef-69f4a4d456bd",
+          "width": 0,
+          "x": 1003,
+          "y": 849,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "GameplayElements_Layer",
+          "locked": true,
+          "name": "Bound_BottomLeft",
+          "persistentUuid": "20d8b7f1-d034-411c-ab6e-143c6d074962",
+          "width": 0,
+          "x": 311,
+          "y": 848,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "GameplayElements_Layer",
+          "locked": true,
+          "name": "Bound_Left",
+          "persistentUuid": "88f68c2a-298f-4824-81d7-5e0afc0ed486",
+          "width": 0,
+          "x": 207,
+          "y": 278,
+          "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1211,7 +1160,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "vecteezy_pool-table-top-view-billiard-game-background_24592776.jpg",
+                      "image": "poolTable",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1275,28 +1224,28 @@
               "polygonOrigin": "Center",
               "vertices": [
                 {
-                  "x": 343,
-                  "y": -49
+                  "x": 304,
+                  "y": -39
                 },
                 {
-                  "x": 343,
-                  "y": 20
+                  "x": 304,
+                  "y": 15
                 },
                 {
-                  "x": 325,
-                  "y": 50
+                  "x": 279,
+                  "y": 40
                 },
                 {
-                  "x": -324,
-                  "y": 50
+                  "x": -285,
+                  "y": 40
                 },
                 {
-                  "x": -343,
-                  "y": 19
+                  "x": -304,
+                  "y": 15
                 },
                 {
-                  "x": -343,
-                  "y": -49
+                  "x": -304,
+                  "y": -39
                 }
               ],
               "density": 1,
@@ -1320,7 +1269,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "TopLeftBound2.png",
+                      "image": "assets\\TopLeftBound.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1340,16 +1289,16 @@
                             "y": 0
                           },
                           {
-                            "x": 686,
+                            "x": 608,
                             "y": 0
                           },
                           {
-                            "x": 686,
-                            "y": 99
+                            "x": 608,
+                            "y": 79
                           },
                           {
                             "x": 0,
-                            "y": 99
+                            "y": 79
                           }
                         ]
                       ]
@@ -1384,28 +1333,28 @@
               "polygonOrigin": "Center",
               "vertices": [
                 {
-                  "x": 320,
-                  "y": 49
+                  "x": 282,
+                  "y": 40
                 },
                 {
-                  "x": 343,
-                  "y": 18
+                  "x": 304,
+                  "y": 13
                 },
                 {
-                  "x": 343,
-                  "y": -49
+                  "x": 304,
+                  "y": -39
                 },
                 {
-                  "x": -343,
-                  "y": -49
+                  "x": -304,
+                  "y": -39
                 },
                 {
-                  "x": -343,
-                  "y": 19
+                  "x": -304,
+                  "y": 13
                 },
                 {
-                  "x": -317,
-                  "y": 49
+                  "x": -281,
+                  "y": 40
                 }
               ],
               "density": 1,
@@ -1429,7 +1378,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "TopRightBound.png",
+                      "image": "assets\\TopRightBound.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1449,16 +1398,16 @@
                             "y": 0
                           },
                           {
-                            "x": 686,
+                            "x": 608,
                             "y": 0
                           },
                           {
-                            "x": 686,
-                            "y": 98
+                            "x": 608,
+                            "y": 79
                           },
                           {
                             "x": 0,
-                            "y": 98
+                            "y": 79
                           }
                         ]
                       ]
@@ -1538,7 +1487,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "RightBound.png",
+                      "image": "assets\\RightBound.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1558,16 +1507,16 @@
                             "y": 0
                           },
                           {
-                            "x": 96,
+                            "x": 86,
                             "y": 0
                           },
                           {
-                            "x": 96,
-                            "y": 684
+                            "x": 86,
+                            "y": 556
                           },
                           {
                             "x": 0,
-                            "y": 684
+                            "y": 556
                           }
                         ]
                       ]
@@ -1647,7 +1596,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "BottomRightBound.png",
+                      "image": "assets\\BottomRightBound.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1667,16 +1616,16 @@
                             "y": 0
                           },
                           {
-                            "x": 684,
+                            "x": 607,
                             "y": 0
                           },
                           {
-                            "x": 684,
-                            "y": 97
+                            "x": 607,
+                            "y": 79
                           },
                           {
                             "x": 0,
-                            "y": 97
+                            "y": 79
                           }
                         ]
                       ]
@@ -1747,16 +1696,17 @@
           ],
           "animations": [
             {
-              "name": "",
+              "name": "BottomLeftBound",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "BottomLeftBound.png",
+                      "image": "assets\\BottomLeftBound.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1776,16 +1726,16 @@
                             "y": 0
                           },
                           {
-                            "x": 684,
+                            "x": 607,
                             "y": 0
                           },
                           {
-                            "x": 684,
-                            "y": 98
+                            "x": 607,
+                            "y": 81
                           },
                           {
                             "x": 0,
-                            "y": 98
+                            "y": 81
                           }
                         ]
                       ]
@@ -1865,7 +1815,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "LeftBound.png",
+                      "image": "assets\\LeftBound.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1885,376 +1835,16 @@
                             "y": 0
                           },
                           {
-                            "x": 97,
+                            "x": 86,
                             "y": 0
                           },
                           {
-                            "x": 97,
-                            "y": 684
+                            "x": 86,
+                            "y": 556
                           },
                           {
                             "x": 0,
-                            "y": 684
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "Pocket_TopLeft",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "TopLeftHole.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 115,
-                            "y": 0
-                          },
-                          {
-                            "x": 115,
-                            "y": 115
-                          },
-                          {
-                            "x": 0,
-                            "y": 115
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "Pocket_TopMiddle",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "TopMiddleHole.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 94,
-                            "y": 0
-                          },
-                          {
-                            "x": 94,
-                            "y": 111
-                          },
-                          {
-                            "x": 0,
-                            "y": 111
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "Pokcet_TopRight",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "TopRightHole.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 114,
-                            "y": 0
-                          },
-                          {
-                            "x": 114,
-                            "y": 113
-                          },
-                          {
-                            "x": 0,
-                            "y": 113
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "Pocket_BottomRight",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "BottomRightHole.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 114,
-                            "y": 0
-                          },
-                          {
-                            "x": 114,
-                            "y": 113
-                          },
-                          {
-                            "x": 0,
-                            "y": 113
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "Pocket_BottomMiddle",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "BottomMiddleHole.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 94,
-                            "y": 0
-                          },
-                          {
-                            "x": 94,
-                            "y": 113
-                          },
-                          {
-                            "x": 0,
-                            "y": 113
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "Pocket_BottomLeft",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "BottomLeftHole.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 114,
-                            "y": 0
-                          },
-                          {
-                            "x": 114,
-                            "y": 114
-                          },
-                          {
-                            "x": 0,
-                            "y": 114
+                            "y": 556
                           }
                         ]
                       ]
@@ -2286,7 +1876,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite",
+                      "image": "Hole",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2350,9 +1940,9 @@
               "polygonOrigin": "Center",
               "vertices": [],
               "density": 1,
-              "friction": 0.3,
-              "restitution": 0.6,
-              "linearDamping": 0.2,
+              "friction": 0.4,
+              "restitution": 0.4,
+              "linearDamping": 0.4,
               "angularDamping": 0.1,
               "gravityScale": 0,
               "layers": 1,
@@ -2434,9 +2024,9 @@
               "polygonOrigin": "Center",
               "vertices": [],
               "density": 1,
-              "friction": 0.3,
-              "restitution": 0.6,
-              "linearDamping": 0.2,
+              "friction": 0.4,
+              "restitution": 0.4,
+              "linearDamping": 0.4,
               "angularDamping": 0.1,
               "gravityScale": 0,
               "layers": 1,
@@ -2518,9 +2108,9 @@
               "polygonOrigin": "Center",
               "vertices": [],
               "density": 1,
-              "friction": 0.3,
-              "restitution": 0.6,
-              "linearDamping": 0.2,
+              "friction": 0.4,
+              "restitution": 0.4,
+              "linearDamping": 0.4,
               "angularDamping": 0.1,
               "gravityScale": 0,
               "layers": 1,
@@ -2602,9 +2192,9 @@
               "polygonOrigin": "Center",
               "vertices": [],
               "density": 1,
-              "friction": 0.3,
-              "restitution": 0.6,
-              "linearDamping": 0.2,
+              "friction": 0.4,
+              "restitution": 0.4,
+              "linearDamping": 0.4,
               "angularDamping": 0.1,
               "gravityScale": 0,
               "layers": 1,
@@ -2686,9 +2276,9 @@
               "polygonOrigin": "Center",
               "vertices": [],
               "density": 1,
-              "friction": 0.3,
-              "restitution": 0.6,
-              "linearDamping": 0.2,
+              "friction": 0.4,
+              "restitution": 0.4,
+              "linearDamping": 0.4,
               "angularDamping": 0.1,
               "gravityScale": 0,
               "layers": 1,
@@ -2770,9 +2360,9 @@
               "polygonOrigin": "Center",
               "vertices": [],
               "density": 1,
-              "friction": 0.3,
-              "restitution": 0.6,
-              "linearDamping": 0.2,
+              "friction": 0.4,
+              "restitution": 0.4,
+              "linearDamping": 0.4,
               "angularDamping": 0.1,
               "gravityScale": 0,
               "layers": 1,
@@ -2854,9 +2444,9 @@
               "polygonOrigin": "Center",
               "vertices": [],
               "density": 1,
-              "friction": 0.3,
-              "restitution": 0.6,
-              "linearDamping": 0.2,
+              "friction": 0.4,
+              "restitution": 0.4,
+              "linearDamping": 0.4,
               "angularDamping": 0.1,
               "gravityScale": 0,
               "layers": 1,
@@ -2938,9 +2528,9 @@
               "polygonOrigin": "Center",
               "vertices": [],
               "density": 1,
-              "friction": 0.3,
-              "restitution": 0.6,
-              "linearDamping": 0.2,
+              "friction": 0.4,
+              "restitution": 0.4,
+              "linearDamping": 0.4,
               "angularDamping": 0.1,
               "gravityScale": 0,
               "layers": 1,
@@ -3022,9 +2612,9 @@
               "polygonOrigin": "Center",
               "vertices": [],
               "density": 1,
-              "friction": 0.3,
-              "restitution": 0.6,
-              "linearDamping": 0.2,
+              "friction": 0.4,
+              "restitution": 0.4,
+              "linearDamping": 0.4,
               "angularDamping": 0.1,
               "gravityScale": 0,
               "layers": 1,
@@ -3106,9 +2696,9 @@
               "polygonOrigin": "Center",
               "vertices": [],
               "density": 1,
-              "friction": 0.3,
-              "restitution": 0.6,
-              "linearDamping": 0.2,
+              "friction": 0.4,
+              "restitution": 0.4,
+              "linearDamping": 0.4,
               "angularDamping": 0.1,
               "gravityScale": 0,
               "layers": 1,
@@ -3190,9 +2780,9 @@
               "polygonOrigin": "Center",
               "vertices": [],
               "density": 1,
-              "friction": 0.3,
-              "restitution": 0.6,
-              "linearDamping": 0.2,
+              "friction": 0.4,
+              "restitution": 0.4,
+              "linearDamping": 0.4,
               "angularDamping": 0.1,
               "gravityScale": 0,
               "layers": 1,
@@ -3274,9 +2864,9 @@
               "polygonOrigin": "Center",
               "vertices": [],
               "density": 1,
-              "friction": 0.3,
-              "restitution": 0.6,
-              "linearDamping": 0.2,
+              "friction": 0.4,
+              "restitution": 0.4,
+              "linearDamping": 0.4,
               "angularDamping": 0.1,
               "gravityScale": 0,
               "layers": 1,
@@ -3358,9 +2948,9 @@
               "polygonOrigin": "Center",
               "vertices": [],
               "density": 1,
-              "friction": 0.3,
-              "restitution": 0.6,
-              "linearDamping": 0.2,
+              "friction": 0.4,
+              "restitution": 0.4,
+              "linearDamping": 0.4,
               "angularDamping": 0.1,
               "gravityScale": 0,
               "layers": 1,
@@ -3442,9 +3032,9 @@
               "polygonOrigin": "Center",
               "vertices": [],
               "density": 1,
-              "friction": 0.3,
-              "restitution": 0.6,
-              "linearDamping": 0.2,
+              "friction": 0.4,
+              "restitution": 0.4,
+              "linearDamping": 0.4,
               "angularDamping": 0.1,
               "gravityScale": 0,
               "layers": 1,
@@ -3526,9 +3116,9 @@
               "polygonOrigin": "Center",
               "vertices": [],
               "density": 1,
-              "friction": 0.3,
-              "restitution": 0.6,
-              "linearDamping": 0.2,
+              "friction": 0.4,
+              "restitution": 0.4,
+              "linearDamping": 0.4,
               "angularDamping": 0.1,
               "gravityScale": 0,
               "layers": 1,
@@ -3610,9 +3200,9 @@
               "polygonOrigin": "Center",
               "vertices": [],
               "density": 1,
-              "friction": 0.3,
-              "restitution": 0.6,
-              "linearDamping": 0.2,
+              "friction": 0.4,
+              "restitution": 0.4,
+              "linearDamping": 0.4,
               "angularDamping": 0.1,
               "gravityScale": 0,
               "layers": 1,
@@ -3832,6 +3422,90 @@
             "characterSize": 20,
             "color": "0;0;0"
           }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "DebugText2",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "this is for debug purposes",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "this is for debug purposes",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 20,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "DebugText3",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "this is for debug purposes",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "this is for debug purposes",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 20,
+            "color": "0;0;0"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -3919,29 +3593,112 @@
             "objectName": "Ball_15"
           },
           {
-            "objectName": "Pocket_TopLeft"
-          },
-          {
-            "objectName": "Pocket_TopMiddle"
-          },
-          {
-            "objectName": "Pokcet_TopRight"
-          },
-          {
-            "objectName": "Pocket_BottomRight"
-          },
-          {
-            "objectName": "Pocket_BottomMiddle"
-          },
-          {
-            "objectName": "Pocket_BottomLeft"
-          },
-          {
             "objectName": "DebugText"
+          },
+          {
+            "objectName": "DebugText2"
+          },
+          {
+            "objectName": "DebugText3"
           }
         ]
       },
       "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "p1X",
+                "=",
+                "Cue_P1.X()"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "p1Y",
+                "=",
+                "Cue_P1.Y()"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "p1R",
+                "=",
+                "Cue_P1.Angle()"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "p2X",
+                "=",
+                "Cue_P2.X()"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "p2Y",
+                "=",
+                "Cue_P2.Y()"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "p2R",
+                "=",
+                "Cue_P2.Angle()"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "p1Playing",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "p2Playing",
+                "False",
+                ""
+              ]
+            }
+          ]
+        },
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
@@ -4029,14 +3786,13 @@
               "actions": [
                 {
                   "type": {
-                    "value": "MettreXY"
+                    "value": "MettreAutour"
                   },
                   "parameters": [
                     "Cue_P1",
-                    "=",
-                    "XFromAngleAndDistance(AngleBetweenPositions(CursorX(), CursorY(), Ball_White.X(), Ball_White.Y()), DistanceBetweenPositions(CursorX(), CursorY(), Ball_White.X(), Ball_White.Y()))",
-                    "=",
-                    "YFromAngleAndDistance(AngleBetweenPositions(CursorX(), CursorY(), Ball_White.X(), Ball_White.Y()), DistanceBetweenPositions(CursorX(), CursorY(), Ball_White.X(), Ball_White.Y()))"
+                    "Ball_White",
+                    "DistanceBetweenPositions(Ball_White.X(), Ball_White.Y(), CursorX(), CursorY()) + (Cue_P1.Width() * .5)",
+                    "AngleBetweenPositions(Ball_White.X(), Ball_White.Y(), CursorX(), CursorY())"
                   ]
                 },
                 {
@@ -4046,12 +3802,13 @@
                   "parameters": [
                     "Cue_P1",
                     "=",
-                    "AngleBetweenPositions(Ball_White.X(), Ball_White.Y(), CursorX(), CursorY())"
+                    "AngleBetweenPositions(Ball_White.X(), Ball_White.Y(), CursorX(), CursorY()) -180"
                   ]
                 }
               ],
               "events": [
                 {
+                  "disabled": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [],
                   "actions": []
@@ -4066,7 +3823,7 @@
                     "value": "BooleanVariable"
                   },
                   "parameters": [
-                    "p1Playing",
+                    "p2Playing",
                     "True",
                     ""
                   ]
@@ -4077,9 +3834,21 @@
           ]
         },
         {
+          "disabled": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
           "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "DebugText2",
+                "Text",
+                "=",
+                "ToString(CursorX()) + \",\" + ToString(CursorY())"
+              ]
+            },
             {
               "type": {
                 "value": "TextContainerCapability::TextContainerBehavior::SetValue"
@@ -4090,8 +3859,143 @@
                 "=",
                 "ToString(XFromAngleAndDistance(AngleBetweenPositions(CursorX(), CursorY(), Ball_White.X(), Ball_White.Y()), DistanceBetweenPositions(CursorX(), CursorY(), Ball_White.X(), Ball_White.Y()))) + \",\" + ToString(YFromAngleAndDistance(AngleBetweenPositions(CursorX(), CursorY(), Ball_White.X(), Ball_White.Y()), DistanceBetweenPositions(CursorX(), CursorY(), Ball_White.X(), Ball_White.Y())))"
               ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "DebugText3",
+                "Text",
+                "=",
+                "ToString(CursorX() - XFromAngleAndDistance(AngleBetweenPositions(CursorX(), CursorY(), Ball_White.X(), Ball_White.Y()), DistanceBetweenPositions(CursorX(), CursorY(), Ball_White.X(), Ball_White.Y()))) + \",\" + ToString(CursorY() - YFromAngleAndDistance(AngleBetweenPositions(CursorX(), CursorY(), Ball_White.X(), Ball_White.Y()), DistanceBetweenPositions(CursorX(), CursorY(), Ball_White.X(), Ball_White.Y())))"
+              ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "isShooting",
+                "False",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "p1Playing",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "Cue_P1",
+                    "=",
+                    "p1X",
+                    "=",
+                    "p1Y"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAngle"
+                  },
+                  "parameters": [
+                    "Cue_P1",
+                    "=",
+                    "p1R"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Physics2::ApplyPolarForce"
+                  },
+                  "parameters": [
+                    "Ball_White",
+                    "Physics2",
+                    "AngleBetweenPositions(CursorX(), CursorY(), Ball_White.X(), Ball_White.Y())",
+                    "DistanceBetweenPositions(CursorX(), CursorY(), Ball_White.X(), Ball_White.Y()) * .1",
+                    "Ball_White.Physics2::MassCenterX()",
+                    "Ball_White.Physics2::MassCenterX()"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "p2Playing",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": []
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::JsCode",
+          "inlineCode": [
+            "const SpriteObjects = runtimeScene.getObjects(\"Bounds\");",
+            "",
+            "SpriteObjects.forEach(SpriteObject => {",
+            "    const PhysicsObject = SpriteObject.getBehavior('Physics2');",
+            "    const Vertices = PhysicsObject.polygon.vertices;",
+            "",
+            "    const AdjustedVertices = [];",
+            "    for (var c of Vertices) {",
+            "        // Relate position to object scale",
+            "        const scaledCoordinates = [",
+            "            c[0] * SpriteObject._scaleX,",
+            "            c[1] * SpriteObject._scaleY",
+            "        ];",
+            "        AdjustedVertices.push(scaledCoordinates);",
+            "    }",
+            "",
+            "    PhysicsObject.polygonOrigin = \"Origin\";",
+            "    PhysicsObject.polygon.vertices = AdjustedVertices;",
+            "    PhysicsObject.recreateShape();",
+            "});"
+          ],
+          "parameterObjects": "Table",
+          "useStrict": true,
+          "eventsSheetExpanded": false
         }
       ],
       "layers": [
